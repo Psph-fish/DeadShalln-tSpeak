@@ -50,4 +50,4 @@ async def unmuteall(ctx):
         await ctx.send("You are not in a voice channel Dipshit")
 
 # Run the bot with your token
-bot.run('MTA0MTMyMjE0MTIwOTA4ODAwMA.GT2B24.hXNRAgyKeeL2xMf8IKUa9ikHlYoQRBNeqWp8-A')
+bot.run('Your_BOT_TOKEN')
